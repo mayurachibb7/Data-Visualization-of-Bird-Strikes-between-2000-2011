@@ -1,1 +1,2 @@
-# Data-Visualization-of-Bird-Strikes-between-2000-2011
+# Data Visualization of Bird Strikes between 2000-2011
+The detailed analysis of bird strike incidents between 2000 and 2011 offers valuable insights into the patterns, risks and possible mitigation strategies in aviation safety. By utilizing advanced data visualization techniques and statistical analysis, we have identified trends in bird strikes, pinpointed high-risk scenarios and assessed the impact on various aspects of flight operations. 
